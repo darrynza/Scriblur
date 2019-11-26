@@ -17,4 +17,4 @@ For the Macro Subroutine:
   python Scriblur.py -n Windows-Upgrade -e amazon.com/final/payload.exe
 
 ## Macro Example
-![alt text](https://github.com/nins3i/Sriblur/blob/master/Macro.png)
+![alt text](https://github.com/nins3i/Scriblur/blob/master/Macro.png)
